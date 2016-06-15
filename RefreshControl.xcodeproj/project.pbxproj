@@ -12,6 +12,7 @@
 		889873D61D111AD400926C09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 889873D41D111AD400926C09 /* Main.storyboard */; };
 		889873D81D111AD400926C09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 889873D71D111AD400926C09 /* Assets.xcassets */; };
 		889873DB1D111AD400926C09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 889873D91D111AD400926C09 /* LaunchScreen.storyboard */; };
+		889873E31D111B4700926C09 /* TestTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 889873E21D111B4700926C09 /* TestTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		889873D71D111AD400926C09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		889873DA1D111AD400926C09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		889873DC1D111AD400926C09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		889873E21D111B4700926C09 /* TestTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				889873D01D111AD400926C09 /* AppDelegate.swift */,
 				889873D21D111AD400926C09 /* ViewController.swift */,
 				889873D41D111AD400926C09 /* Main.storyboard */,
+				889873E21D111B4700926C09 /* TestTableViewController.swift */,
 				889873D71D111AD400926C09 /* Assets.xcassets */,
 				889873D91D111AD400926C09 /* LaunchScreen.storyboard */,
 				889873DC1D111AD400926C09 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				889873D31D111AD400926C09 /* ViewController.swift in Sources */,
 				889873D11D111AD400926C09 /* AppDelegate.swift in Sources */,
+				889873E31D111B4700926C09 /* TestTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
